@@ -4,6 +4,6 @@ El website es un template desarrollado por 'BuckyMaler', que incorpora cambios c
 
 [LIVE PREVIEW](http://buckymaler.com/global)
 
-##Link:
+##Misc:
 * [Youtube] (https://www.youtube.com/channel/UC7kchH7u324GbEgDK1FivQQ)
 * [Github] (https://github.com/BuckyMaler)
